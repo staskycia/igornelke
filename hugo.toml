@@ -2,7 +2,7 @@ baseURL = "https://igornelke.pl/"
 languageCode = "pl"
 defaultContentLanguage = "pl"
 title = "Igor Nelke"
-theme = "papermod"
+theme = "PaperMod"
 copyright = "&copy; 2026"
 
 [params]
