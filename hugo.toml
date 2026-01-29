@@ -1,0 +1,59 @@
+baseURL = "https://igornelke.pl/"
+languageCode = "pl"
+defaultContentLanguage = "pl"
+title = "Igor Nelke"
+theme = "papermod"
+copyright = "&copy; 2026"
+
+[params]
+    defaultTheme = "dark"
+    dateFormat = "02.01.2006"
+    customCSS = ["css/custom.css"]
+    alert = { enabled = true, text = "Zapraszamy do zapoznania sie z naszym [systemem ITOS](https://itos.igornelke.pl)" }
+
+[params.footer]
+    text = "Komitet Wyborczy Kandydata na Prezydenta Samorządu Uczniowskiego Igora Nelke"
+
+[params.profileMode]
+    enabled = true
+    title = "Igor Nelke"
+    subtitle = "Kandydat na Prezydenta Samorządu Uczniowskiego"
+    imageUrl = "<image link>"
+    imageTitle = "<title of image as alt>"
+    imageWidth = 120
+    imageHeight = 120
+
+    [[params.profileMode.buttons]]
+        name = "Aktualności"
+        url = "/posts"
+
+[[params.socialIcons]]
+    name = "email"
+    url = "mailto:komitet@igornelke.pl"
+
+[[params.socialIcons]]
+    name = "instagram"
+    url = "<link>"
+
+[[params.socialIcons]]
+    name = "facebook"
+    url = "<link2>"
+
+
+[menus]
+    [[menus.main]]
+        name = "Start"
+        pageRef = "/"
+        weight = 10
+    [[menus.main]]
+        name = "Dotychczasowa działalność"
+        pageRef = "/dzialalnosc"
+        weight = 20
+    [[menus.main]]
+        name = "Komitet"
+        pageRef = "/komitet"
+        weight = 30
+    [[menus.main]]
+        name = "Program"
+        pageRef = "/program"
+        weight = 40

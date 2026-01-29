@@ -1,0 +1,8 @@
++++
+title = "Krysia Lizak"
+role = "Komisarz ds. TODO"
+photo = "krysia.jpg"
+weight = 3
++++
+
+Nazywam się Krysia Lizak. Pasjonuję się filmem - wiele oglądam, a czasem też sama nagrywam. Gram także na instrumentach - pianinie i gitarze, ostatnio uczę się także grać na puzonie. Z Samorządem Uczniowskim związana jestem od lat. W szkole podstawowej byłam przewodniczącą klasy, a także szkoły. W liceum również działałam w Samorządzie klasowym. Angażuję się społecznie, biorąc udział w różnych akcjach pozaszkolnych i szkolnych, np. pomagałam przy SKAN-ie czy Dniu Otwartym dla kandydatów. W tym roku szkolnym, jako ambasadorka Olimpiady Zwolnieni z Teorii, przez kilka tygodni spotykałam się z licealistami w Warszawie, a także poza nią, aby zachęcić ich do stworzenia projektów, który przyniósłby lokalnej społeczności realne korzyści. Będąc w Rządzie, chciałabym uczestniczyć w tworzeniu i organizacji życia kulturalnego naszej szkoły. Myślę, że wielu uczniów czeka na coraz więcej wydarzeń, które będą kreowały wspólnotę Staszica. I dlatego też chciałabym wzmocnić współpracę między uczniami a Stowarzyszeniem Wychowanków Szkoły. Uważam, że cenne jest czerpanie z doświadczeń naszych starszych Koleżanek i Kolegów. Dlaczego Igor Nelke? Bo jest to Osoba, która realnie zaangażowana jest w życie naszej szkoły. Nie tylko aktywnie pomaga w różnych akcjach i szkolnych wydarzeniach, ale również jest pomysłodawcą i organizatorem „Familiady”. Turnieju tworzonego przez uczniów dla uczniów, który jest nie tylko propozycją rozrywki, ale służy naszej integracji.

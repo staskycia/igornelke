@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Dotychczasowa działalność on Igor Nelke</title>
+    <link>http://localhost:1313/dzialalnosc/</link>
+    <description>Recent content in Dotychczasowa działalność on Igor Nelke</description>
+    <generator>Hugo -- 0.154.3</generator>
+    <language>pl</language>
+    <copyright>2026</copyright>
+    <atom:link href="http://localhost:1313/dzialalnosc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Familiada</title>
+      <link>http://localhost:1313/dzialalnosc/familiada/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/dzialalnosc/familiada/</guid>
+      <description>Ogólnoszkolny turniej</description>
+    </item>
+  </channel>
+</rss>
