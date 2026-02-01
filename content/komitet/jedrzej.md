@@ -1,6 +1,6 @@
 +++
 title = "Jędrzej Głowaczewski"
-role = "Komisarz ds. TODO"
+role = "Komisarz ds. kultury i sztuki"
 photo = "jedrzej.jpg"
 weight = 5
 +++

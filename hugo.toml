@@ -9,7 +9,7 @@ copyright = "&copy; 2026"
     defaultTheme = "dark"
     dateFormat = "02.01.2006"
     customCSS = ["css/custom.css"]
-    alert = { enabled = true, text = "Zapraszamy do zapoznania sie z naszym [systemem ITOS](https://itos.igornelke.pl)" }
+    alert = { enabled = true, text = "Zapraszamy do zapoznania sie z naszym [systemem ITOS](https://l.igornelke.pl/iS8Fj)" }
 
 [params.footer]
     text = "Komitet Wyborczy Kandydata na Prezydenta Samorządu Uczniowskiego Igora Nelke"
@@ -20,8 +20,8 @@ copyright = "&copy; 2026"
     subtitle = "Kandydat na Prezydenta Samorządu Uczniowskiego"
     imageUrl = "/images/igor-start.png"
     imageTitle = "Igor Nelke"
-    imageWidth = 120
-    imageHeight = 120
+    imageWidth = 200
+    imageHeight = 200
 
     [[params.profileMode.buttons]]
         name = "Aktualności"
