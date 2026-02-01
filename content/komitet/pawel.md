@@ -1,6 +1,6 @@
 +++
 title = "Paweł Szarata"
-role = "Komisarz ds. TODO"
+role = "Komisarz ds. sportu"
 photo = "pawel.jpg"
 weight = 4
 +++

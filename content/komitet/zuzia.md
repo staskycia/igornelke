@@ -1,6 +1,6 @@
 +++
 title = "Zuzanna Kepal"
-role = "Komisarz ds. wydarzeń uczniowskich"
+role = "Komisarz ds. wydarzeń szkolnych"
 photo = "zuzia.jpg"
 weight = 5
 +++

@@ -1,6 +1,6 @@
 +++
 title = "Łucja Miasojedow"
-role = "Komisarz ds. TODO"
+role = "Komisarz ds. wydarzeń szkolych"
 photo = "lucja.jpg"
 weight = 5
 +++

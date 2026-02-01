@@ -23,10 +23,6 @@ copyright = "&copy; 2026"
     imageWidth = 200
     imageHeight = 200
 
-    [[params.profileMode.buttons]]
-        name = "Aktualności"
-        url = "/posts"
-
 [[params.socialIcons]]
     name = "email"
     url = "mailto:komitet@igornelke.pl"
@@ -37,8 +33,7 @@ copyright = "&copy; 2026"
 
 [[params.socialIcons]]
     name = "facebook"
-    url = "<link2>"
-
+    url = "<link>"
 
 [menus]
     [[menus.main]]
