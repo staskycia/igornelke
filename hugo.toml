@@ -29,11 +29,11 @@ copyright = "&copy; 2026"
 
 [[params.socialIcons]]
     name = "instagram"
-    url = "<link>"
+    url = "https://www.instagram.com/igornelke.wybory"
 
 [[params.socialIcons]]
     name = "facebook"
-    url = "<link>"
+    url = "https://www.facebook.com/profile.php?id=100086393505714"
 
 [menus]
     [[menus.main]]
