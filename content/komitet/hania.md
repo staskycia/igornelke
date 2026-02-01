@@ -1,7 +1,7 @@
 +++
 title = "Hania Makowska"
 role = "Komisarz ds. TODO"
-photo = "hania.jpg"
+photo = "hania.jpeg"
 weight = 5
 +++
 
