@@ -1,0 +1,10 @@
++++
+title = "Mateusz Wilk"
+role = "Zastępca Prezydenta"
+photo = "mateusz.jpg"
+weight = 3
++++
+
+Nazywam się Mateusz Władysław Wilk i zacznę od tego, że nie będę wam pisać o jakiejś dziejowej misji naprawienia szkoły czy też innych mitycznych opowiastkach o nieskazitelnych intencjach, planach na wiekopomne dzieła i o niewiarygodnych kompetencjach pozwalających te dzieła zrealizować.  Stawiam na szczerość, bo w przeciwieństwie do takich oczomydlaków jestem w stanie sobie na to pozwolić. Przechodząc do rzeczy z mojej perspektywy najważniejszej, czyli powodu mojej chęci wejścia do rządu jest znana bądź nie maksyma, jak jest trudno to nienudno. Bycie częścią rządu zapewni mi na tyle trudności, żeby oderwać mnie od rutyny, ale dzięki uprzejmości Pana Nelke nie na tyle aby mnie przygnieść i wykraść blask z oczu. Jeżeli zaś chodzi o moje kompetencje, wszak dobrymi chęciami jest piekło wybrukowane, to mam straszną awersję do sprawiania ludziom mi bliskim zawodu. Z tegoż tytułu o cokolwiek nasz przyszły przewodniczący mnie poprosi staram się spełnić jak tylko mi pozwalają moje możliwości co przynosi niezgorsze skutki jako przykład jeden z wielu mogę podać szkolną familiadę której jestem [¿współorganizatorem?] (wstaw tu jak chcesz mnie utytułować). Jak mówi Pismo „Po owocach ich poznacie” a jak na razie od konsumpcji mojej pracy nikomu nie ścierpły zęby (ich synom również).  Jeżeli ktoś cierpi z powodu braku popularnych w tego typu wypowiedziach niezwiązanych z niczym fakcików o mnie to moim ulubionym zespołem zagranicznym jest Dire Straits a jedną z ulubionych piosenek z ich repertuaru jest „Lady Writer”.
+
+Na zakończenie powiem „i poznacie prawdę, a prawda was wyzwoli” J 8,32 sprawdzajcie ile jest prawdy w tym co mówią kandydaci i ich poplecznicy (ja również) i nie dajcie się zwieść kłamstwom to może coś dobrego z tych wyborów nam przyjdzie

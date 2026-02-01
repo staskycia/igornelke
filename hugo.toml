@@ -18,8 +18,8 @@ copyright = "&copy; 2026"
     enabled = true
     title = "Igor Nelke"
     subtitle = "Kandydat na Prezydenta Samorządu Uczniowskiego"
-    imageUrl = "<image link>"
-    imageTitle = "<title of image as alt>"
+    imageUrl = "/images/igor-start.png"
+    imageTitle = "Igor Nelke"
     imageWidth = 120
     imageHeight = 120
 

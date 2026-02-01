@@ -2,7 +2,7 @@
 title = "Igor Nelke"
 role = "Prezydent"
 email = "igor@igornelke.pl"
-photo = "bogdan.jpg"
+photo = "igor.png"
 weight = 1
 +++
 

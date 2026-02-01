@@ -64,35 +64,42 @@
 {{- end }}
 
 <article class="{{ $class }}">
-  {{- $isHidden := (.Param "cover.hiddenInList") | default (.Param "cover.hidden") | default false }}
-  {{- partial "cover.html" (dict "cxt" . "IsSingle" false "isHidden" $isHidden) }}
-    <header class="entry-header team-header">
-    <div class="team-profile">
-        {{- with .Params.photo }}
-        <img class="team-photo" src="/images/sztab/{{ . }}" alt="{{ $.Title }}">
-        {{- end }}
-        <div class="team-info">
-        <h2 class="team-name">{{ .Title }}</h2>
-        {{- with .Params.role }}
-        <p class="team-role">{{ . }}</p>
-        {{- end }}
-        {{- with .Params.email }}
-        <p class="team-email">{{ . }}</p>
-        {{- end }}
-        </div>
-    </div>
-    </header>
+
+  {{- with .Params.photo }}
+  <img
+    src="/images/sztab/{{ . }}"
+    alt="{{ $.Title }}"
+    style="
+      float:left;
+      width:120px;
+      height:120px;
+      object-fit:cover;
+      border-radius:50%;
+      margin:0 1.25rem 0.75rem 0;
+    ">
+  {{- end }}
+
+  <header class="entry-header team-header">
+    <h2 class="team-name">{{ .Title }}</h2>
+
+    {{- with .Params.role }}
+    <p class="team-role">{{ . }}</p>
+    {{- end }}
+
+    {{- with .Params.email }}
+    <p class="team-email">{{ . }}</p>
+    {{- end }}
+  </header>
+
   {{- if (ne (.Param "hideSummary") true) }}
   <div class="entry-content">
     <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
   </div>
   {{- end }}
-  {{- if not (.Param "hideMeta") }}
-  <footer class="entry-footer">
-    {{- partial "post_meta.html" . -}}
-  </footer>
-  {{- end }}
-  <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
+
+  <div style="clear:both;"></div>
+
+  <a class="entry-link" href="{{ .Permalink }}"></a>
 </article>
 {{- end }}
 
