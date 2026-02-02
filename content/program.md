@@ -59,7 +59,7 @@ Zależy nam, aby przyjście na kiermasz chwilę po jego rozpoczęciu, nie pozbaw
 
 --- -->
 
-## Tydzień specjalnych
+## Tydzień specjalny
 Uważamy, że dobrym pomysłem byłoby zorganizowanie serii spotkań i warsztatów prowadzonych przez ciekawych gości z danej dziedziny. W przeszłości, w Staszicu organizowano tego typu tydzień filmowy. Moglibyśmy przywrócić to wydarzenie, ale jesteśmy także otwarci na Wasze pomysły.
 
 ---
