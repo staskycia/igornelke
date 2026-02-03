@@ -1,5 +1,5 @@
 +++
-title = "Eryk Lebiedzinski"
+title = "Eryk Lebiadzinski"
 role = "Komisarz ds. wydarzeń szkolnych"
 photo = "eryk.jpeg"
 weight = 5
