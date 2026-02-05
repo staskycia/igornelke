@@ -39,8 +39,6 @@ Planujemy urozmaicić Waszą szkolną codzienność poprzez organizację dni tem
 
 ---
 
----
-
 ## Serwer Minceraft
 Ze względu na duże zainteresowanie Uczniów, postanowiliśmy przywrócić szkolny serwer Minecraft, gdzie uczniowie będą mogli wspólnie budować, rywalizować i po prostu dobrze się bawić. Jest to również dobra okazja, żeby poznać nowych ludzi i odpocząć po lekcjach.
 
