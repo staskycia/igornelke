@@ -28,8 +28,7 @@ Dla wielu Uczniów, wybór Prezydenta to jedyna w trakcie całego roku szkolnego
 
 Obecnie nie zawsze wiadomo gdzie szukać informacji o działaniach Samorządu - o części dowiecie się z plakatów, inne znajdziecie na Facebooku, a inne na Discordzie. Zależy nam na ujednoliceniu naszych środków komunikacji, w tym na uporządkowaniu tablicy ogłoszeń samorządu, o której mało kto pamięta. Jesteśmy też gotowi do wdrożenia całkiem nowego systemu ogłoszeń, który będzie przestrzenią zarówno dla Uczniów chcących opowiedzieć innym o swoich inicjatywach, jaki i przedstawicieli Samorządu do informowania o podejmowanych działaniach. Jego zaletami są przede wszystkim:
 - Brak konieczności proszenia nauczycieli o publikację (w przeciwieństwie do Librusa)
-- Możliwość czytania ogłoszeń bez posiadania dedykowanego konta (co jest wymagane w przypadku samorządowego Facebooka czy Instagrama)
-Możecie dowiedzieć się o nim więcej i sami go wypróbować [tutaj](https://l.igornelke.pl/y9E1y)! 
+- Możliwość czytania ogłoszeń bez posiadania dedykowanego konta (co jest wymagane w przypadku samorządowego Facebooka czy Instagrama). Możecie dowiedzieć się o nim więcej i sami go wypróbować [tutaj](https://l.igornelke.pl/y9E1y)! 
 
 ---
 
