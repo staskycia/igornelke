@@ -9,7 +9,7 @@ copyright = "&copy; 2026"
     defaultTheme = "dark"
     dateFormat = "02.01.2006"
     customCSS = ["css/custom.css"]
-    alert = { enabled = true, text = "Zapraszamy do zapoznania sie z naszym [systemem ITOS](https://l.igornelke.pl/iS8Fj)" }
+    alert = { enabled = true, text = "W środę (25 lutego) odbędzie się pierwsza tura wyborów. Zachęcamy do głosowania poprzez linki na staszicowych mailach!" }
 
 [params.footer]
     text = "Komitet Wyborczy Kandydata na Prezydenta Samorządu Uczniowskiego Igora Nelke"
